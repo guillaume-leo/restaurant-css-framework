@@ -1,0 +1,37 @@
+/* font-family: 'Big Shoulders Display', cursive;
+
+font-family: 'Neucha', cursive;
+
+font-family: 'Open Sans Condensed', sans-serif; */
+
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+background-image: url("img/background.jpg");
+background-size: 145%;
+background-position-x: -200px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+
+}
+
+
+#opacity{
+    background-color: rgba(0,0,0,0.5);
+}
+
+
+
+.navbar-expand-lg a{
+    display: inline;
+    margin-left: 10px;
+}
+
+#logo{
+    filter: invert(1);
+}
+
+footer{
+    height:200px;
+    background-color: rgba(255,255,255,0.25);
+}

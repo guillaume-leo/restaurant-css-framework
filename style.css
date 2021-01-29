@@ -6,7 +6,7 @@ font-family: 'Open Sans Condensed', sans-serif; */
 
 body{
     font-family: 'Open Sans Condensed', sans-serif;
-    
+    background-color: black;
     color: rgba(255, 255, 255, 1.0);
 }
 
@@ -30,6 +30,17 @@ th, td{
     background-color: #41d09e;
 }
 
+.color4{
+    background-color: #3ac2e9;
+}
+
+.color5{
+    background-color: #60aaf8;
+}
+
+.color6{
+    background-color: #f97e86;
+}
 
 /* NAVBAR */
 
@@ -99,15 +110,20 @@ th, td{
     background-position: left;
 }
 
+.pic3{
+    height: 200px;
+    background-image: url("img/cookie.png");
+    background-size: 250px 200px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 #title{
     margin-top: -100px;
     font-size: 50px;
 }
 
-.mypanel-right, .mypanel-left{
 
-    
-}
 
 #title2{
     margin-top: -100px;
@@ -134,27 +150,29 @@ footer{
 
 
 .picsandwich{
-    height: 200px;
+    height: 250px;
     background-image: url("img/tasse.png");
-    background-size: 70% 50%;
+    background-size: 250px 120px;
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: 50px 20px;
+    background-color: #eab020;
 
 }
 
 
-/* .picboissons{
+ .picboissons{
+    height: 200px;
+    background-image: url("img/cafe.png");
+    background-size: 250px 200px;
+    background-repeat: no-repeat;
+    background-position: 100px 20px;
+}
+
+
+.picpomme{
     height: 200px;
     background-image: url("img/pomme2.png");
     background-size: 250px 200px;
     background-repeat: no-repeat;
     background-position: right;
 }
-
-.picmanger{
-    height: 200px;
-    background-image: url("img/choux2.png");
-    background-size: 250px 200px;
-    background-repeat: no-repeat;
-    background-position: left;
-} */

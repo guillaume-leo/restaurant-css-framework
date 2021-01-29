@@ -26,10 +26,17 @@ body{
     background-color: rgba(0,0,0,0.8);
 }
 
+.navbar h1{
+    color: rgba(255,255,255,0.8);
+    letter-spacing: 3px;
+    font-size: 50px;
+}
+
 /* DROP-DOWN BUTTON NAVBAR */
 
 .navbar-light .navbar-toggler-icon {
     background-image: url("img/Coffee-Cup-Silhouette.svg");
+    background-size: cover;
     filter: invert(0.5);
     background-color: rgba(0, 0, 0, 0.0);
  }

@@ -47,6 +47,13 @@ body{
     width: 250px;
 }
 
+#arrow-down{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 80px ;
+    filter:invert(0.8)
+}
+
 footer{
     height:100px;
     background-color: rgba(255,255,255,0.25);

@@ -22,11 +22,11 @@ body{
     background-size: 250px 200px;
     background-repeat: no-repeat;
     background-position: right;
-
+    margin-bottom: 100px;
 }
 .mypanel-left{
     background-position: left;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 }
 
 .mypanel-left p, .mypanel-right p{

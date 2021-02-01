@@ -8,6 +8,7 @@ body{
     font-family: 'Open Sans Condensed', sans-serif;
     background-color: black;
     color: rgba(255, 255, 255, 1.0);
+    font-size: 20px;
 }
 
 th, td{
@@ -227,4 +228,7 @@ color:#eab020;
 text-decoration: none;
 }
 
+footer{
+    font-size: 15px;;
+}
 

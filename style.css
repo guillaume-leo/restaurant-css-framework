@@ -103,8 +103,8 @@ th, td{
 }
 
 .pic2{
-    height: 200px;
-    background-image: url("img/choux2.png");
+    height: 300px;
+    background-image: url("img/cafe.png");
     background-size: 250px 200px;
     background-repeat: no-repeat;
     background-position: left;
@@ -184,6 +184,28 @@ footer{
     background-color: rgba(0,0,0,0.8);
     color: white;
 }
+
+/* CONTACT PAGE */
+
+.cuisinepic{
+    background-image: url("img/cuisine.png");
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    background-position: center;
+}
+
+form{
+    background-color: rgba(0,0,0,0.5);
+    margin: -12px;
+    border-radius: 15px;
+}
+
+select{
+    background-color: rgba(0,0,0,0.5);
+    
+}
+
+
 
 
 

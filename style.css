@@ -155,7 +155,7 @@ footer{
     background-size: 250px 120px;
     background-repeat: no-repeat;
     background-position: 50px 20px;
-    background-color: #eab020;
+    background-color: #60aaf8;
 
 }
 
@@ -176,3 +176,23 @@ footer{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+
+/* GALERIE PAGE */
+
+.pagination li a{
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+}
+
+
+
+/* FOOTER */
+
+.social a{
+margin-left:10px;
+margin-right: 10px;
+color:#eab020;
+text-decoration: none;
+}
+

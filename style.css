@@ -185,6 +185,13 @@ footer{
     color: white;
 }
 
+.card{
+    border-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
 /* CONTACT PAGE */
 
 .cuisinepic{
@@ -200,10 +207,12 @@ form{
     border-radius: 15px;
 }
 
-select{
-    background-color: rgba(0,0,0,0.5);
-    
-}
+.form-control:valid {
+    background-color:  rgba(255, 255, 255, 0.8)!important;
+    color:black;
+  }
+
+
 
 
 
@@ -217,4 +226,5 @@ margin-right: 10px;
 color:#eab020;
 text-decoration: none;
 }
+
 

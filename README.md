@@ -44,11 +44,11 @@ The website must be **responsive**, at least for small and medium screens. It mu
   
   Here is the result of what I did : 
   
-  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fa9QDPqemu3pTy8ssktlho3%2Frestaurant-css-framework%3Fnode-id%3D1%253A2%26scaling%3Dscale-down" allowfullscreen></iframe>
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fa9QDPqemu3pTy8ssktlho3%2Frestaurant-css-framework%3Fnode-id%3D1%253A5%26scaling%3Dscale-down" allowfullscreen></iframe>
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fa9QDPqemu3pTy8ssktlho3%2Frestaurant-css-framework%3Fnode-id%3D1%253A7%26scaling%3Dscale-down" allowfullscreen></iframe>
+  ![prototype1](img/figma1.png)
+  
+  ![prototype1](img/figma2.png)
+  
+  ![prototype1](img/figma3.png)
 
 I didn't like the picture I found on unsplash, I replaced them by drawings made by my girlfriend.
 

@@ -32,22 +32,24 @@ The website must be **responsive**, at least for small and medium screens. It mu
 
   First I tried to find inspiration by visiting some websites : 
 
-  * [Pardon](https://www.pardonbrussels.com/)
-* [Kokuban](https://www.kokuban.be/)
-  * [Belga and Co](https://www.belgacoffee.com/)
+  [Pardon](https://www.pardonbrussels.com/)
+
+  [Kokuban](https://www.kokuban.be/)
+
+  [Belga and Co](https://www.belgacoffee.com/)
 
   Then I tried to create a "draft" using [Figma](www.figma.com) to have an idea of where I was going to.
 
   I really liked working with Figma but it was my second time so the result was not satisfying in my opinion. 
-  
+
   I think I didn't spent enough time on this part, because at the end the result is too much different.
-  
+
   Here is the result of what I did : 
-  
+
   ![prototype1](img/figma1.png)
-  
+
   ![prototype1](img/figma2.png)
-  
+
   ![prototype1](img/figma3.png)
 
 I didn't like the picture I found on unsplash, I replaced them by drawings made by my girlfriend.

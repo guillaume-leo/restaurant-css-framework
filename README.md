@@ -1,6 +1,6 @@
-# HABIBI (bobo vibes/coffee and lunch)
+# 	HABIBI (bobo vibes/coffee and lunch)
 
-The goal is to create a restaurant website.
+The goal is to create a restaurant website using [Bootstrap ](https://getbootstrap.com/) in 4 days.
 
 To see the final result [click here](https://guillaume-leo.github.io/restaurant-css-framework/)
 
@@ -30,12 +30,35 @@ The website must be **responsive**, at least for small and medium screens. It mu
 
   ###### My Adventure:
 
+  First I tried to find inspiration by visiting some websites : 
+
+  * [Pardon](https://www.pardonbrussels.com/)
+* [Kokuban](https://www.kokuban.be/)
+  * [Belga and Co](https://www.belgacoffee.com/)
+
+  Then I tried to create a "draft" using [Figma](www.figma.com) to have an idea of where I was going to.
+
+  I really liked working with Figma but it was my second time so the result was not satisfying in my opinion. 
   
-
-  First I tried to create a "draft" using [figma](www.figma.com) to have an idea of where I was going to.
-
   I think I didn't spent enough time on this part, because at the end the result is too much different.
-
+  
   Here is the result of what I did : 
-
+  
   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fa9QDPqemu3pTy8ssktlho3%2Frestaurant-css-framework%3Fnode-id%3D1%253A2%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fa9QDPqemu3pTy8ssktlho3%2Frestaurant-css-framework%3Fnode-id%3D1%253A5%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fa9QDPqemu3pTy8ssktlho3%2Frestaurant-css-framework%3Fnode-id%3D1%253A7%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+I didn't like the picture I found on unsplash, I replaced them by drawings made by my girlfriend.
+
+
+
+###### HTML/BOOTSTRAP/CSS PART:
+
+ I tried to do the website in mobile first. I had a problem with bootstrap.
+
+The mistake I made was to isolate each element in a container. So at the end nothing was responsive. 
+
+I had to start all again with a new strategy so I lost a lot of time. The result is far from my expectations, but I learnt a lot during this challenge, next time will be better :)
+

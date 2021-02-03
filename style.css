@@ -9,12 +9,19 @@ body{
     background-color: black;
     color: rgba(255, 255, 255, 1.0);
     font-size: 20px;
+    
 }
 
 th, td{
     color: rgba(255, 255, 255, 1.0);
     border:none;
     background-color: rosybrown;
+}
+
+.main{
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* COLOR PALETTE */
@@ -44,6 +51,12 @@ th, td{
 }
 
 /* NAVBAR */
+
+.navbar{
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .navbar-expand-lg a{
     display: inline;
@@ -81,6 +94,7 @@ th, td{
     padding: 50px 0px 50px 0px;
     filter: invert(0.9);
     width: 250px;
+    
 }
 
 #arrow-down{
@@ -95,60 +109,34 @@ th, td{
 
 /* PANELS */
 
-.pic1{
-    height: 200px;
-    background-image: url("img/cafe.png");
-    background-size: 250px 200px;
-    background-repeat: no-repeat;
-    background-position: right;
-}
-
-.pic2{
-    height: 300px;
-    background-image: url("img/cafe.png");
-    background-size: 250px 200px;
-    background-repeat: no-repeat;
-    background-position: left;
-}
-
-.pic3{
-    height: 200px;
-    background-image: url("img/cookie.png");
-    background-size: 250px 200px;
-    background-repeat: no-repeat;
-    background-position: right;
-}
-
-#title{
-    margin-top: -100px;
-    font-size: 50px;
-}
-
-
-
-#title2{
-    margin-top: -100px;
-    font-size: 50px;
-    text-align: right;
-}
-
-.mypanel-left p, .mypanel-right p{
-    font-size:1.2em;
-    background-color: rgba(50, 50, 50, 0.2);
+.thumbnail {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    object-fit: fill;
 }
 
 
 
 
-footer{
-    height:100px;
-    background-color: rgba(0,0,0,0.8);
-    
-}
+
+
+
 
 
 /* MENU PAGE */
 
+.sandwich{
+    width: 250px;
+    margin: auto;
+    height: 90px;
+}
+
+.price{
+    text-align: right;
+    width: 150px;
+
+}
 
 .picsandwich{
     height: 250px;
@@ -200,6 +188,9 @@ footer{
     background-repeat: no-repeat;
     margin-top: 100px;
     background-position: center;
+    max-width: 750px;
+    margin: auto;
+    margin-top: 100px;
 }
 
 form{
@@ -229,6 +220,27 @@ text-decoration: none;
 }
 
 footer{
-    font-size: 15px;;
+    font-size: 15px;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    height:100px;
+    background-color: rgba(0,0,0,0.8);
 }
 
+
+
+/* RESPONSIVE */
+
+@media screen and (min-width: 768px){
+    body{
+        max-width:1000px;
+        margin: auto;
+    }
+
+    .cardsResponsive{
+        width:800px;
+    }
+    
+
+}
